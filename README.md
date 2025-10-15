@@ -5,7 +5,7 @@ Atividade feita para a disciplina de poo na eaj em 2025 para aprender SpringBoot
 
 **PROBLEMA DE NEGÓCIO**<br/><br/>
 **REQUISITOS DE SISTEMA**<br/>
-  **R1 – INSERIR JOGADORES**<br/>
+ <t/> **R1 – INSERIR JOGADORES**<br/>
   **R2 – ESCOLHER VALOR DA APOSTA**<br/>
   **R3 – LANÇAR DADOS**<br/>
   **R4 – APRESENTAR RESULTADO**<br/>
