@@ -5,13 +5,11 @@ Atividade feita para a disciplina de poo na eaj em 2025 para aprender SpringBoot
 
 **PROBLEMA DE NEGÓCIO**<br/><br/>
 **REQUISITOS DE SISTEMA**<br/>
-<pre>
   **R1 – INSERIR JOGADORES**<br/>
   **R2 – ESCOLHER VALOR DA APOSTA**<br/>
   **R3 – LANÇAR DADOS**<br/>
   **R4 – APRESENTAR RESULTADO**<br/>
   **R5 – INFORMAR JOGADOR VENCEDOR**<br/>
-</pre>
 **REGRAS DE NEGÓCIO**<br/>
 
 1.	O máximo de jogadores é 11
