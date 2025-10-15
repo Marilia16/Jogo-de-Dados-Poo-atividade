@@ -3,7 +3,7 @@
 Atividade feita para a disciplina de poo na eaj em 2025 para aprender SpringBoot e Thymeleaf com PostgreSQL 
 
 
-**PROBLEMA DE NEGÓCIO**<br/>
+**PROBLEMA DE NEGÓCIO**<br/><br/>
 **REQUISITOS DE SISTEMA**<br/>
 **R1 – INSERIR JOGADORES**<br/>
 **R2 – ESCOLHER VALOR DA APOSTA**<br/>
