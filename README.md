@@ -2,20 +2,8 @@
 
 Atividade feita para a disciplina de poo na eaj em 2025 para aprender SpringBoot e Thymeleaf com PostgreSQL 
 
-
-**PROBLEMA DE NEGÓCIO**<br/><br/>
 **REQUISITOS DE SISTEMA**<br/>
-  **R1 – INSERIR JOGADORES**<br/>
-  **R2 – ESCOLHER VALOR DA APOSTA**<br/>
-  **R3 – LANÇAR DADOS**<br/>
-  **R4 – APRESENTAR RESULTADO**<br/>
-  **R5 – INFORMAR JOGADOR VENCEDOR**<br/>
+- O sistema deverá permitir o cadastro de usuários
+- O sistema deverá registrar a aposta em diferentes mesas
 **REGRAS DE NEGÓCIO**<br/>
-
-1.	O máximo de jogadores é 11
-2.	O valor escolhido deve estar entre 2 e 12 (Resultados possíveis)
-3.	Um jogador pode escolher um valor já escolhido por outro (dividir prêmio)
-
-
-
- 
+- O valor escolhido para o dado deve estar entre 2 a 12(resultados possiveis)
