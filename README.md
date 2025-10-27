@@ -5,5 +5,5 @@ Atividade feita para a disciplina de poo na eaj em 2025 para aprender SpringBoot
 **REQUISITOS DE SISTEMA**<br/>
 - O sistema deverá permitir o cadastro de usuários
 - O sistema deverá registrar a aposta em diferentes mesas
-**REGRAS DE NEGÓCIO**<br/>
+<br/>**REGRAS DE NEGÓCIO**<br/>
 - O valor escolhido para o dado deve estar entre 2 a 12(resultados possiveis)
