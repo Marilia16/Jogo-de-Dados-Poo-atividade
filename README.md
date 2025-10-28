@@ -23,4 +23,4 @@ CU4:	Visualizar Apostas Disponíveis:	O Jogador consulta a lista de apostas cria
 CU5:	Visualizar Histórico de Lances:	O Jogador consulta todos os lances que ele já realizou.
 
 ##Diadrama de Classes
-![Diagrama de Classes(./Docs/DiagramadeClasses.png)
+![Diagrama de Classes(https://github.com/Marilia16/Jogo-de-Dados-Poo-atividade/blob/main/Docs/DiagramadeClasses.png)
