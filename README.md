@@ -16,11 +16,11 @@ RN7:	Limite de Participantes por Aposta: Uma aposta deve ter um número mínimo 
 RN8:	Restrição de Palpite: O valor do palpite em qualquer lance deve ser um número inteiro entre 2 e 12, inclusos.
 
 <br/>**CASOS DE USO**<br/>
-CU1:	Cadastrar Novo Usuário: O Jogador registra uma nova conta no sistema, fornecendo nome, e-mail, e senha.
-CU2:	Criar Nova Aposta (Mesa):	O Jogador inicia um novo evento de aposta, dando-lhe um nome.
-CU3:	Realizar um Lance:	O sistema agora deve validar se o palpite submetido está no intervalo permitido (entre 2 e 12). Se estiver fora desse intervalo, o lance deve ser recusado.
-CU4:	Visualizar Apostas Disponíveis:	O Jogador consulta a lista de apostas criadas, para escolher em qual participar.
-CU5:	Visualizar Histórico de Lances:	O Jogador consulta todos os lances que ele já realizou.</br>
+* CU1:	Cadastrar Novo Usuário: O Jogador registra uma nova conta no sistema, fornecendo nome, e-mail, e senha.
+* CU2:	Criar Nova Aposta (Mesa):	O Jogador inicia um novo evento de aposta, dando-lhe um nome.
+* CU3:	Realizar um Lance:	O sistema agora deve validar se o palpite submetido está no intervalo permitido (entre 2 e 12). Se estiver fora desse intervalo, o lance deve ser recusado.
+* CU4:	Visualizar Apostas Disponíveis:	O Jogador consulta a lista de apostas criadas, para escolher em qual participar.
+* CU5:	Visualizar Histórico de Lances:	O Jogador consulta todos os lances que ele já realizou.</br>
 
 ## Diagrama de Classes
 
