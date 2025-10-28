@@ -31,3 +31,7 @@ Atividade feita para a disciplina de poo na eaj em 2025 para aprender SpringBoot
 ## Diagrama de Casos de Uso
 
 ![Diagrama de Casos de Uso](Docs/caso_de_uso.png)
+
+## Diagrama de Relacionamento do banco de dados
+
+![Diagrama de Relacionamento](Docs/diagramaderelacionamento.png)
