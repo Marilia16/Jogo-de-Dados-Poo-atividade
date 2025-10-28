@@ -22,7 +22,7 @@ CU3:	Realizar um Lance:	O sistema agora deve validar se o palpite submetido est�
 CU4:	Visualizar Apostas Disponíveis:	O Jogador consulta a lista de apostas criadas, para escolher em qual participar.
 CU5:	Visualizar Histórico de Lances:	O Jogador consulta todos os lances que ele já realizou.
 
-## Diagrama de Classes (UML)
+<br/>## Diagrama de Classes (UML)
 
 ![Diagrama de Classes](Docs/DiagramadeClasses.png)
 
