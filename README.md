@@ -28,4 +28,4 @@ CU5:	Visualizar Histórico de Lances:	O Jogador consulta todos os lances que ele
 
 ## Diagrama de Casos de Uso
 
-![Diagrama de Casos de Uso](Docs/caso de uso.png)
+![Diagrama de Casos de Uso](Docs/caso_de_uso.png)
