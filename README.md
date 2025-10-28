@@ -5,7 +5,7 @@ Atividade feita para a disciplina de poo na eaj em 2025 para aprender SpringBoot
 **REQUISITOS DE SISTEMA**<br/>
 - O sistema deverá permitir o cadastro de usuários
 - O sistema deverá registrar a aposta em diferentes mesas
-**REGRAS DE NEGÓCIO**<br/>
+<br/>**REGRAS DE NEGÓCIO**<br/>
 RN1: Usuário Único por E-mail: Cada usuário deve ter um endereço de e-mail exclusivo, garantindo que não haja duplicidade de contas.
 RN2: Segurança da Conta: Todo usuário deve ter uma senha e um e-mail cadastrado para acesso.
 RN3: Participação em Apostas: Uma aposta é sempre criada por um usuário, estabelecendo a autoria da mesa ou evento de aposta.
