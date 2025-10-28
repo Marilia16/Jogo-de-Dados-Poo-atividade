@@ -5,6 +5,7 @@ Atividade feita para a disciplina de programação orientada a objetos em 2025 p
 **REQUISITOS DE SISTEMA**<br/>
 - O sistema deverá permitir o cadastro de usuários
 - O sistema deverá registrar a aposta em diferentes mesas
+- O sistema deverá mostrar o resultado no final de uma aposta
 
 
 <br/>**REGRAS DE NEGÓCIO**<br/>
