@@ -20,9 +20,9 @@ CU1:	Cadastrar Novo Usuário: O Jogador registra uma nova conta no sistema, forn
 CU2:	Criar Nova Aposta (Mesa):	O Jogador inicia um novo evento de aposta, dando-lhe um nome.
 CU3:	Realizar um Lance:	O sistema agora deve validar se o palpite submetido está no intervalo permitido (entre 2 e 12). Se estiver fora desse intervalo, o lance deve ser recusado.
 CU4:	Visualizar Apostas Disponíveis:	O Jogador consulta a lista de apostas criadas, para escolher em qual participar.
-CU5:	Visualizar Histórico de Lances:	O Jogador consulta todos os lances que ele já realizou.
+CU5:	Visualizar Histórico de Lances:	O Jogador consulta todos os lances que ele já realizou.</br>
 
-<br/>## Diagrama de Classes (UML)
+## Diagrama de Classes
 
 ![Diagrama de Classes](Docs/DiagramadeClasses.png)
 
