@@ -1,6 +1,6 @@
 # Jogo de Dados
 
-Atividade feita para a disciplina de poo na eaj em 2025 para aprender SpringBoot e Thymeleaf com PostgreSQL 
+Atividade feita para a disciplina de programação orientada a objetos em 2025 para aprender SpringBoot e Thymeleaf com PostgreSQL 
 
 **REQUISITOS DE SISTEMA**<br/>
 - O sistema deverá permitir o cadastro de usuários
